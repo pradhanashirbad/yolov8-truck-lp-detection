@@ -1,0 +1,8 @@
+
+path: /home/ashirbad/Documents/EAIGLE/truck_lp_yolov8/data_2000 # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: validation/images  # val images (relative to 'path')
+
+# Classes
+nc: 2
+names: ['Truck', 'LP']
